@@ -28,7 +28,7 @@ Wear a solid red/green/blue cloak, capture a clean background, and watch yoursel
 Clone the repo and install dependencies:
 
 ```bash
-git clone https://github.com/AmenAllahHemdani/Invisibility-Cloak.git
+git clone https://github.com/AmenAllahHemdani/Invisibility-Cloak-with-opencv-python.git
 cd Invisibility-Cloak
 pip install -r requirements.txt
 ````
